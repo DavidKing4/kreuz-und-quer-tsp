@@ -208,3 +208,5 @@ __marimo__/
 
 # json config files
 *.json
+*.html
+*.txt
