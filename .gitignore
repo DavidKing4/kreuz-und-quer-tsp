@@ -210,3 +210,5 @@ __marimo__/
 *.json
 *.html
 *.txt
+
+!tsp_route_best.html
